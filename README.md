@@ -30,7 +30,7 @@ To download site you can follow this instructions:
     python main.py
     ```
   
-### Editing `main.py`
+### Editing main.py
   
     ```python
     from site_downloader import SiteDownloader
