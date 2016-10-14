@@ -1,9 +1,9 @@
 # SiteDownloader
 This project is a micro pyhon2.7 module for site downloading. It can be used for downloading small sites. If you haven't internet or your internet connection is very slow you can use this module to download some site (or part of site) on other computer or place for your personal use.
 
-This module uses only one not built-in library - [requests_link]
+This module uses only one not built-in library - [requests]
 
-[requests_link]: http://docs.python-requests.org/en/master/
+[requests]: http://docs.python-requests.org/en/master/
 
 ## Project Setup
 To download site you can follow this instructions:
