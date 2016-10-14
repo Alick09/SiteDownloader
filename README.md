@@ -30,16 +30,16 @@ To download site you can follow this instructions:
     python main.py
     ```
   
-### Editing main.py
+### Editing `main.py`
   
-    ```python
-    from site_downloader import SiteDownloader
-    sd = SiteDownloader()
-    sd.set_logger('log.txt')
-    sd.set_root_level('http://site.ru/somepath/', 'site')
-    sd.set_static_path('static')
-    sd.download('http://site.ru/somepath/index.php', title='site_title')
-    ```
+  ```python
+  from site_downloader import SiteDownloader
+  sd = SiteDownloader()
+  sd.set_logger('log.txt')
+  sd.set_root_level('http://site.ru/somepath/', 'site')
+  sd.set_static_path('static')
+  sd.download('http://site.ru/somepath/index.php', title='site_title')
+  ```
   
   * Method `set_logger` uses for log different errors, warnings or other useful information.
     If you will remove this line, log file won't be created.
