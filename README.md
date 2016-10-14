@@ -64,7 +64,7 @@ To download site you can follow this instructions:
     | img | `http://other_site.com/files/img/image.png` | site/static/images/image.png |
     
 ### Development
-  This modules not works with static files collision, with "not-affecting" parameters in links.
+  This modules not works with static files collision, with "not-affecting" parameters in links and some other features.
   
   But if you want to make this project better, you can help suggesting your fixes and changes.
   
