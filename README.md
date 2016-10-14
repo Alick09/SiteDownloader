@@ -56,7 +56,7 @@ To download site you can follow this instructions:
   * Table shows how different pages will be saved on you project path (by the example above):
     
     | page type     | url           | save path  |
-    | ------------- |:-------------:| -----:|
+    | ------------- |---------------| ------|
     | html          | `http://site.ru/somepath/index.html` | site/index.html |
     | html      | `http://site.ru/somepath/foo/index.html` | site/foo/index.html |
     | js | `http://site.ru/js/file.js`   | site/static/js/file.js |
